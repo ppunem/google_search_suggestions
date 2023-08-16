@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  color: #475569;
+}
+.arrow-icon {
+  height: 20px;
+}
